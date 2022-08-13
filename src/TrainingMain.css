@@ -1,0 +1,15 @@
+.TrainingMain {
+	width: 50%;
+	margin: auto;
+	margin-top: 32px;
+	text-align: start;
+}
+
+.TrainingMain .finished {
+  margin-top: 20px;
+  font-size: 10px;
+}
+
+.TrainingMain .finished button {
+  margin-top: 4px;
+}

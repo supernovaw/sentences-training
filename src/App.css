@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.TextSelection {
+  width: 40%;
+  min-height: 100vh;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 8px;
+}
+
+.TextSelection .option {
+  font-size: 32px;
+}

@@ -1,0 +1,10 @@
+.SentencePrompt {
+  margin-top: 64px;
+}
+
+.SentencePrompt textarea {
+  width: 100%;
+  resize: vertical;
+  margin-top: 16px;
+  margin-bottom: 25vh;
+}

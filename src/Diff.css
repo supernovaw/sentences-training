@@ -1,0 +1,16 @@
+.Diff {
+  min-height: 1em;
+  margin-bottom: 8px;
+}
+
+.Diff span[type="-1"] {
+	color: #59d459;
+  text-decoration: underline;
+}
+
+.Diff span[type="1"] {
+	color: #d62b3f;
+  text-decoration: line-through;
+  text-decoration-color: red;
+  filter: blur(0.3px);
+}
